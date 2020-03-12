@@ -1,0 +1,4 @@
+Name,Surname,Phone,Mobile,E-mail,Street,Number,Town,Zip
+Pete,Prattis,210123456,123456,pete@mail.com,Newstrt,1,Athens,1234
+Adam,Adams,210234567,123987,adam@mail.com,Oldstrt,21,London,5553
+Sanjay,Talya,99999,9080898,sanjay,lepaksh,12,town,560098
